@@ -1,2 +1,2 @@
-# Postgresql_Planet
-Database repository from Continuous Improvement - KPIs from Planet
+# Database
+Database repository from Continuous Improvement
